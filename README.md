@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep-Learning 학습을 위한 저장소입니다.
+Coursera의 Deep Learning Specialization 과정을 공부하면서 코드를 작성한 저장소입니다.
