@@ -1,6 +1,4 @@
 ## 파일 무시
-Logistic_Regression_with_a_Neural_Network_mindset.ipynb
-Python_Basics_with_Numpy.ipynb
 
 ## 다음과 같은 확장자는 전체 무시
 *.text
@@ -8,3 +6,4 @@ Python_Basics_with_Numpy.ipynb
 *.zip
 
 ## 폴더 무시
+data
